@@ -11,3 +11,4 @@ Examine location-based insights by gathering and displaying information for part
 Make interactive data visualizations that let consumers explore and filter the information.
 Using Tableau or Power BI, create a complete dashboard that presents the most important findings from the investigation by merging multiple visuals.
 
+Dashboard:https://public.tableau.com/views/Airbnb_17158376311690/Dashboard3?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
